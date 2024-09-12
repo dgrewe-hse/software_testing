@@ -18,6 +18,8 @@ import org.junit.jupiter.api.Test;
 /**
  * Unit test for the Calculator class.
  * It tests the add and multiply methods with different sets of operands.
+ * @author Dennis Grewe
+ * @since 1.0
  */
 class CalculatorTest {
 
