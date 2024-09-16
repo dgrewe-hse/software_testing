@@ -15,7 +15,7 @@ package de.hse.swb.swt.streamflix;
 /**
  * This class represents a recommendation service for StreamFlix subscriptions.
  */
-public class AboRecommendationService {
+public class SubscriptionRecommendationService {
 
     /**
      * Recommends the most cost-effective Abo model based on the user's preferences.
