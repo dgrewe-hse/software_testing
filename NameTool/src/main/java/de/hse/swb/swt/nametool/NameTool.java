@@ -10,6 +10,7 @@
  * details (a copy is included in the LICENSE file that
  * accompanied this code).
  */
+package de.hse.swb.swt.nametool;
 
 /**
  * Utility class for handling and manipulating names.
